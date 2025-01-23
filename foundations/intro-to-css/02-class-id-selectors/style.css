@@ -1,0 +1,18 @@
+.redBackground {
+    background-color: pink;
+}
+
+.bigText {
+    font-size: 25px;
+}
+
+#blueText {
+    color:blue;
+    font-size: 35px;
+}
+
+#greenBackground {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 15px;
+}
